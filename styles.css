@@ -1,0 +1,19 @@
+body {
+  background-color: #eaf4f9;
+}
+
+form {
+  background-color: white;
+  margin: 0 auto;
+  width: 150px;
+  height: 250px;
+  padding: 20px;
+  text-align: center;
+}
+
+input [type="button"] {
+  background-color: #8598db;
+  border: none;
+  color: white;
+  border-bottom: gray;
+}
